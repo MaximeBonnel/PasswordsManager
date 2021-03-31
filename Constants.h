@@ -11,8 +11,8 @@
 
 #define PWDLENGTH 20 // password length for generation
 
-#define FILENAME "PasswordManager.txt"
-#define ENCRYPTFILENAME "PasswordManager"
+#define FILENAME "PasswordsManager.txt"
+#define ENCRYPTFILENAME "PasswordsManager"
 
 #define PASSWORDLEN 128 // password length for opening
 #define CH_PASSWORDLEN "127"
