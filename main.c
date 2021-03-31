@@ -33,7 +33,7 @@ int main(void)
     char input[PASSWORDLEN];
     char loop = 1;
 
-    getPassword(password);
+    if (getPassword(password)) {return EXIT_FAILURE;}
     while (strcoll(password, input) != 0)
     {
         clearScreen();
