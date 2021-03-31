@@ -3,22 +3,22 @@
 ## Commands :
 
 #### /add name id pwd
-> add an element to the list
+> add an element to the list.
 
 #### /rm line
-> remove an element of the list
+> remove an element of the list.
 
 #### /mod line (name, id or pwd) newChange
-> modify an element of the list
+> modify an element of the list.
 
 #### /gen line
-> generate a random password
+> generate a random password.
 
 #### /save or /exit
-> save changes and exit
+> save changes and exit.
 
 #### /chpwd newPassword
-> change the security password
+> change the security password (no default password).
 
 ## Works for **Windows** & **Linux** !
-> Just uncomment "WINDOWS" and comment "LINUX" before the compilation for windows
+> Just uncomment "WINDOWS" or "LINUX" before the compilation in "Constants.h" file.
