@@ -25,6 +25,5 @@
 
 ## Program compilation*
 Make sure gcc is installed
-> gcc -o passwordManager *.c
-in the directory
-lunch the file !
+> "gcc -o passwordManager *.c" in the directory
+####lunch the file !
