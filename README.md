@@ -23,8 +23,7 @@
 ## Works for **Windows** & **Linux** !
 > Just uncomment "WINDOWS" or "LINUX" before the compilation in "Constants.h" file.
 
-## Compile on Linux
+## Program compilation*
+> Make sure gcc is installed
 > "gcc -o passwordManager *.c" in the directory
-
-"" compile on windows
-> 
+> lunch the file !
