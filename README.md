@@ -24,6 +24,7 @@
 > Just uncomment "WINDOWS" or "LINUX" before the compilation in "Constants.h" file.
 
 ## Program compilation*
-> Make sure gcc is installed
-> "gcc -o passwordManager *.c" in the directory
-> lunch the file !
+Make sure gcc is installed
+> gcc -o passwordManager *.c
+in the directory
+lunch the file !
